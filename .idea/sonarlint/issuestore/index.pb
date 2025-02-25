@@ -9,3 +9,5 @@ J
 contracts/measurement.clar,d/7/d77dd04c4d4e4b93822ab8f9d6076fb2f1e1909b
 I
 tests/measurement.test.ts,4/4/44b8774f198614bd526413c9159062522df27250
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2

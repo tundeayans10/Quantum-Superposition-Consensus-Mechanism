@@ -50,11 +50,6 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
-            contract-name: measurement
-            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-            path: contracts/measurement.clar
-            clarity-version: 2
-        - emulated-contract-publish:
             contract-name: quantum-state
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/quantum-state.clar
